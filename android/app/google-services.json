@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "1064223716639",
+      "project_id": "fashionmobile-ceaf2",
+      "storage_bucket": "fashionmobile-ceaf2.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:1064223716639:android:bd32b5d6f2d48339332c2a",
+          "android_client_info": {
+            "package_name": "com.fashionmobile"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyB-bx0JREoH0typsnqHDCYGrVkn3nGhT9c"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
